@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Signuppage from './Components/admin/Signuppage';
 import Loginpage from './Components/admin/Loginpage';
 import Mainpage from './Components/admin/Mainpage';
-import Rolepage from './Components/rolepage';
+import Rolepage from './Components/Rolepage';
 import MSignuppage from './Components/manager/MSignuppage';
 import MLogin from './Components/manager/Mlogin';
 import Mdashboard from './Components/manager/Mdashboard';
