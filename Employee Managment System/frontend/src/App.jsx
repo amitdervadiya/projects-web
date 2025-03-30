@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 import './App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Signuppage from './Components/admin/Signuppage';
@@ -17,8 +17,6 @@ import Edashboard from './Components/employee/Edashboard';
 
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <BrowserRouter>
